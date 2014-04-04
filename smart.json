@@ -1,0 +1,9 @@
+{
+  "name": "theme-webarch",
+  "description": "webarch theme packaged for meteor",
+  "homepage": "https://github.com/sebyx07/theme-webarch",
+  "author": "sebyx07",
+  "version": "0.0.1",
+  "git": "https://github.com/sebyx07/theme-webarch",
+  "packages": { }
+}
