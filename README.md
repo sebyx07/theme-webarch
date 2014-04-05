@@ -42,6 +42,15 @@ High quality theme for **meteor**.
             ...
         }
         
+
+5. Add this to your template layout for jquery effects to work
+
+        <template name="hello">
+            {{>webarch}}
+        </template>
+        
+6. copy the `webarch/HTML/assets` folder to your project's `public` folder
+
 ##Todo
 + Create template for login 404 500
 
@@ -50,5 +59,7 @@ If you run into some problems please remove bootstrap package, I already include
 
 ###Extra
 I also included `js_css_parser.rb` a ruby script to get all all the links to js/css file from html files **recursively**. It's a bit modified for this template, but if you know some ruby you will get run in no time for any html
+
+`css_parser.rb` changes the path of img/fonts in css files. **don't** run it inside this the folder, use it in other non meteor templates.
 
 Use it as you will
