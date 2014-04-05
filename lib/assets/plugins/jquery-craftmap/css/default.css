@@ -47,7 +47,7 @@ text-decoration:none;
 
 
 .preloader {
-background:url(../img/loader.gif) no-repeat center #fff;
+background:url(/assets/plugins/jquery-craftmap/img/loader.gif) no-repeat center #fff;
 }
 
 
@@ -93,8 +93,8 @@ background:url(../img/loader.gif) no-repeat center #fff;
 	width:59px;
 	height:61px;
 	outline:none;
-	background:url(../images/marker.html) no-repeat;
-	background:url(../img/mapMarker.png) no-repeat;
+	background:url(/assets/plugins/jquery-craftmap/images/marker.html) no-repeat;
+	background:url(/assets/plugins/jquery-craftmap/img/mapMarker.png) no-repeat;
 	cursor:pointer;
 }
 .popup .close {
@@ -106,7 +106,7 @@ background:url(../img/loader.gif) no-repeat center #fff;
 	width:16px;
 	height:16px;
 	outline:none;
-	background:url(../img/close.gif) no-repeat;
+	background:url(/assets/plugins/jquery-craftmap/img/close.gif) no-repeat;
 	cursor:pointer;
 }
 

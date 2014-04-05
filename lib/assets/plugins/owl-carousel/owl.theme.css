@@ -75,5 +75,5 @@
 /* preloading images */
 .owl-item.loading{
 	min-height: 150px;
-	background: url(AjaxLoader.gif) no-repeat center center
+	background: url(/assets/plugins/owl-carousel//assets/plugins/owl-carousel/AjaxLoader.gif) no-repeat center center
 }
